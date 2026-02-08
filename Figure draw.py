@@ -4,7 +4,7 @@ import turtle
 t = turtle.Turtle()
 t.speed(3)  # Moderate speed to see the drawing process
 t.pensize(5)
-
+#body figure
 def draw_boy():
     # Head
     t.circle(40)  # Draws a circle for the head
@@ -38,3 +38,4 @@ def draw_boy():
     turtle.done()
 
 draw_boy()
+
