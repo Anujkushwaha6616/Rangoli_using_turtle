@@ -35,9 +35,9 @@ for _ in range(15):
     random_size = random.randint(20, 60)
     random_x = random.randint(-250, 250)
     random_y = random.randint(-200, 200)
-    
-    draw_heart(random_color, random_size, random_x, random_y)
 
+    draw_heart(random_color, random_size, random_x, random_y)
 t.hideturtle()
 turtle.done()
+
 
