@@ -1,6 +1,5 @@
 import turtle
 import time
-
 # Setup screen..
 screen = turtle.Screen()
 screen.bgcolor("black")
@@ -25,7 +24,6 @@ pulse.color("white")
 pulse.hideturtle()
 pulse.penup()
 pulse.goto(0, -20)
-
 # Animate pulsing name...
 for size in range(10, 30):
     pulse.clear()
