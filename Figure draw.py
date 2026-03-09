@@ -38,4 +38,3 @@ def draw_boy():
     turtle.done()
 
 draw_boy()
-
