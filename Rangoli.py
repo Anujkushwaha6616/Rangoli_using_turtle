@@ -8,7 +8,7 @@ screen.bgcolor("white")
 t = turtle.Turtle()
 t.speed(0)
 t.pensize(2)
-
+# colours
 colors = ["red", "blue", "green", "orange", "purple"]
 
 # Draw circles in flower style
